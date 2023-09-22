@@ -40,6 +40,7 @@ dependencies:
   url_launcher: ^6.0.13
   http: ^0.13.3
   path_provider: ^2.0.14
+  timer_builder: ^2.0.2
 dev_dependencies:
   flutter_test:
     sdk: flutter
